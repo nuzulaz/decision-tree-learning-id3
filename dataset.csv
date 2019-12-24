@@ -1,0 +1,15 @@
+handphone,baterai,kamera,harga,kelayakan
+h1,kuat,tinggi,sangat murah,ya
+h2,kuat,tinggi,sangat mahal,ya
+h3,kuat,sedang,mahal,ya
+h4,kuat,rendah,mahal,tidak
+h5,cukup,tinggi,sangat murah,ya
+h6,cukup,sedang,mahal,ya
+h7,cukup,sedang,sangat mahal,ya
+h8,cukup,tinggi,murah,ya
+h9,cukup,rendah,mahal,tidak
+h10,lemah,tinggi,sangat murah,ya
+h11,lemah,tinggi,sangat mahal,tidak
+h12,lemah,sedang,mahal,tidak
+h13,lemah,sedang,murah,tidak
+h14,lemah,rendah,sangat mahal,tidak
